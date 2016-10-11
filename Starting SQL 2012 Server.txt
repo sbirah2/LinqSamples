@@ -1,0 +1,9 @@
+Starting SQL Server
+
+1) open windows Explorer
+2) position to C: driver
+3) type in SqlServerManager11.msc in the search area (upper right corner)
+4) should get 2 hits, double click the first one
+5) check Sql SErver Services
+6) check Server (MSSQLSERVER) is it  green play
+7) if not right click and select Start
